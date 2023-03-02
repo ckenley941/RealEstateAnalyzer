@@ -1,0 +1,11 @@
+C:\Users\ckenl\Development\RealEstateAnalyzer\bin\Debug\netcoreapp2.2\RealEstateAnalyzer.deps.json
+C:\Users\ckenl\Development\RealEstateAnalyzer\bin\Debug\netcoreapp2.2\RealEstateAnalyzer.runtimeconfig.json
+C:\Users\ckenl\Development\RealEstateAnalyzer\bin\Debug\netcoreapp2.2\RealEstateAnalyzer.runtimeconfig.dev.json
+C:\Users\ckenl\Development\RealEstateAnalyzer\bin\Debug\netcoreapp2.2\RealEstateAnalyzer.dll
+C:\Users\ckenl\Development\RealEstateAnalyzer\obj\Debug\netcoreapp2.2\RealEstateAnalyzer.csprojAssemblyReference.cache
+C:\Users\ckenl\Development\RealEstateAnalyzer\obj\Debug\netcoreapp2.2\RealEstateAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\ckenl\Development\RealEstateAnalyzer\obj\Debug\netcoreapp2.2\RealEstateAnalyzer.AssemblyInfoInputs.cache
+C:\Users\ckenl\Development\RealEstateAnalyzer\obj\Debug\netcoreapp2.2\RealEstateAnalyzer.AssemblyInfo.cs
+C:\Users\ckenl\Development\RealEstateAnalyzer\bin\Debug\netcoreapp2.2\RealEstateAnalyzer.pdb
+C:\Users\ckenl\Development\RealEstateAnalyzer\obj\Debug\netcoreapp2.2\RealEstateAnalyzer.dll
+C:\Users\ckenl\Development\RealEstateAnalyzer\obj\Debug\netcoreapp2.2\RealEstateAnalyzer.pdb

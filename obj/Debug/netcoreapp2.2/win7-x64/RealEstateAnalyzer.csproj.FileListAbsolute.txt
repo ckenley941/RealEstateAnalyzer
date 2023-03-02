@@ -1,0 +1,16 @@
+C:\Users\ckenl\Development\RealEstateAnalyzer\bin\Debug\netcoreapp2.2\win7-x64\hostpolicy.dll
+C:\Users\ckenl\Development\RealEstateAnalyzer\bin\Debug\netcoreapp2.2\win7-x64\hostfxr.dll
+C:\Users\ckenl\Development\RealEstateAnalyzer\bin\Debug\netcoreapp2.2\win7-x64\RealEstateAnalyzer.exe
+C:\Users\ckenl\Development\RealEstateAnalyzer\bin\Debug\netcoreapp2.2\win7-x64\RealEstateAnalyzer.deps.json
+C:\Users\ckenl\Development\RealEstateAnalyzer\bin\Debug\netcoreapp2.2\win7-x64\RealEstateAnalyzer.runtimeconfig.json
+C:\Users\ckenl\Development\RealEstateAnalyzer\bin\Debug\netcoreapp2.2\win7-x64\RealEstateAnalyzer.runtimeconfig.dev.json
+C:\Users\ckenl\Development\RealEstateAnalyzer\bin\Debug\netcoreapp2.2\win7-x64\RealEstateAnalyzer.dll
+C:\Users\ckenl\Development\RealEstateAnalyzer\obj\Debug\netcoreapp2.2\win7-x64\RealEstateAnalyzer.csprojAssemblyReference.cache
+C:\Users\ckenl\Development\RealEstateAnalyzer\obj\Debug\netcoreapp2.2\win7-x64\RealEstateAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\ckenl\Development\RealEstateAnalyzer\obj\Debug\netcoreapp2.2\win7-x64\RealEstateAnalyzer.AssemblyInfoInputs.cache
+C:\Users\ckenl\Development\RealEstateAnalyzer\obj\Debug\netcoreapp2.2\win7-x64\RealEstateAnalyzer.AssemblyInfo.cs
+C:\Users\ckenl\Development\RealEstateAnalyzer\bin\Debug\netcoreapp2.2\win7-x64\RealEstateAnalyzer.pdb
+C:\Users\ckenl\Development\RealEstateAnalyzer\obj\Debug\netcoreapp2.2\win7-x64\RealEstateAnalyzer.dll
+C:\Users\ckenl\Development\RealEstateAnalyzer\obj\Debug\netcoreapp2.2\win7-x64\RealEstateAnalyzer.pdb
+C:\Users\ckenl\Development\RealEstateAnalyzer\bin\Debug\netcoreapp2.2\win7-x64\appsettings.Development.json
+C:\Users\ckenl\Development\RealEstateAnalyzer\bin\Debug\netcoreapp2.2\win7-x64\appsettings.json
