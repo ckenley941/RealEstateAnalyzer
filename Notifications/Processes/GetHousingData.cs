@@ -207,8 +207,8 @@ namespace RealEstateAnalyzer.Notifications.Processes
             {
                 using (var client = new HttpClient())
                 {
-                    client.DefaultRequestHeaders.Add("x-rapidapi-host", "realtor.p.rapidapi.com");
-                    client.DefaultRequestHeaders.Add("x-rapidapi-key", "97072ef5f8msh4349da9bb755f07p10511bjsn8836fe922fc6");
+                    client.DefaultRequestHeaders.Add("x-rapidapi-host", ""); 
+                    client.DefaultRequestHeaders.Add("x-rapidapi-key", "");
                     try
                     {
                         string url = "";
